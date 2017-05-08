@@ -1,0 +1,29 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "3P assignment - Weather app for cities",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "3P",
+    "Weather APP"
+  ],
+  "authors": [
+    "Megha Nagpal"
+  ],
+  "license": "3P",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "angular": "~1.4.7",
+    "angular-mocks": "^1.6.4"
+  }
+}
